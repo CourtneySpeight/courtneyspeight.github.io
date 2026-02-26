@@ -1,4 +1,4 @@
-# Courtney Speight Data Analytics Portfolio
+# [Courtney Speight Data Analytics Portfolio](https://courtneyspeight.github.io)
 
 Welcome to my portfolio, which showcases my experience and skills with Data Analytics tools such as BigQuery and Tableau, as well as my ability to interpret and present data. 
 
