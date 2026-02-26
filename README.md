@@ -7,5 +7,5 @@ I have also completed a BSc Open Degree with the Open University, specialising i
 ## Table of Contents
 
 - How do Annual Members and Casual Riders use Bikeshare differently?
-  - [Report](BikeShareAnalysis/report.html)
-  - [Presentation](BikeShareAnalysis/presentation.pdf)
+  - [Report](courtneyspeight.github.io/BikeShareAnalysis/report.html)
+  - [Presentation](courtneyspeight.github.io/BikeShareAnalysis/presentation.pdf)
